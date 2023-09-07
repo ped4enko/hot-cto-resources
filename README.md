@@ -1,4 +1,4 @@
-# Awesome CTO Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome CTO Resources
 
 :bulb: A community-curated list of awesome resources to help you grow as a CTO.
 Originally published as an ebook [How to become a better CTO](https://brainhub.eu/templates/labs/ebooks/how-to-become-better-cto-chief-technical-officer/?utm_source=github_matt).
@@ -148,24 +148,13 @@ up with 10 top tips.
 
 
 ## Hiring
-
+- [How to Hire a CTO](https://turnkey-labs.com/tech-trends/how-to-hire-a-cto/) : **Blog post** : The article speaks about why CTO is more than just a number-cruncher, and what is important when choosing one.
 - [What Makes A Good CTO Great? 8 Qualities To Hire For](https://www.forbes.com/sites/theyec/2015/08/28/what-makes-a-good-cto-great-8-qualities-to-hire-for/#2c8fc8cc4b03) : **Blog post** : Yair Flicker, the President of SmartLogic a custom software development firm, shares the top qualities that distinguish a great Chief Technology Officer (CTO) from a merely good one, based on his own experience.
 - [14 Tips for Hiring the Perfect CTO](http://mashable.com/2011/05/07/cto-startup-hiring/#oe6OXUtiLqqd) : **Blog post** : Scott Gerber the founder of Sizzle It!, asked a group of successful young entrepreneurs what fledging tech startups should be looking for in a CTO hire to ensure founders get the right person for the job.
 - [Hiring the Right CTO: 5 Best Practices to Keep in Mind](https://www.inc.com/young-entrepreneur-council/what-to-remember-when-hiring-the-right-cto-for-your-startup.html) : **Blog post** : Nav Athwal, founder and CEO of RealtyShares, writes about what should be taken into consideration when selecting a CTO to build a successful startup.
-- [How to Hire a CTO](https://www.inc.com/guides/2010/04/hiring-chief-technology-officer-cto.html) : **Blog post** : The article speaks about why CTO is more than just a number-cruncher, and what is important when choosing one.
 - [7 Steps: How to Hire A CTO for your Startup](https://www.stridenyc.com/blog/7-steps-how-to-hire-a-cto-for-your-startup/) : **Blog post** : Regardless of the stage of your startup, if you are looking to hire a CTO, follow these 7 steps to find your ideal candidate. 
 - [When to Hire a CTO](https://yscouts.com/when-to-hire-a-cto/) : **Blog post** : The article enlists four crucial things to consider when deciding when to hire a CTO.
 - [Recruiting and Hiring from the CTO Perspective](https://www.stackoverflowbusiness.com/blog/recruiting-and-hiring-from-the-cto-perspective) : **Blog post** : As a CTO hiring developers, you need to know what you're looking for in a candidate, but also how to identify and test for those things.
-
-
-## Contributing
-
-Read [this](https://github.com/mateusz-brainhub/awesome-cto-resources/blob/master/contributing.md) if you want to contribute to this list.
-
-
-## Code of conduct
-
-Read [this](https://github.com/mateusz-brainhub/awesome-cto-resources/blob/master/code-of-conduct.md) regarding the code of conduct.
 
 
 ## License
@@ -175,9 +164,5 @@ Read [this](https://github.com/mateusz-brainhub/awesome-cto-resources/blob/maste
 To the extent possible under law, [Matt Warcholinski](https://github.com/mateusz-brainhub) has waived all copyright and related or neighboring rights to this work.
 
 ## About
-
-Awesome-CTO-Resources is maintained by the Brainhub team. It is funded by Brainhub and the names and logos for Brainhub are trademarks of Brainhub Sp. z o.o.. You can check other open-source projects supported/developed by our teammates here. 
-
-[![Brainhub](https://brainhub.eu/brainhub.svg)](https://brainhub.eu/?utm_source=github)
 
 We love open-source JavaScript software! See our other projects or hire us to build your next web, desktop and mobile application with React, React Native, Electron and Node.js.
