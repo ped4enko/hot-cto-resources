@@ -148,7 +148,7 @@ up with 10 top tips.
 
 
 ## Hiring
-- [How to Hire a CTO](https://turnkey-labs.com/tech-trends/how-to-hire-a-cto/) : **Blog post** : The article speaks about why CTO is more than just a number-cruncher, and what is important when choosing one.
+- [How to Hire a CTO](https://turnkeystaffing.com/tech-trends/how-to-hire-a-cto/) : **Blog post** : The article speaks about why CTO is more than just a number-cruncher, and what is important when choosing one.
 - [What Makes A Good CTO Great? 8 Qualities To Hire For](https://www.forbes.com/sites/theyec/2015/08/28/what-makes-a-good-cto-great-8-qualities-to-hire-for/#2c8fc8cc4b03) : **Blog post** : Yair Flicker, the President of SmartLogic a custom software development firm, shares the top qualities that distinguish a great Chief Technology Officer (CTO) from a merely good one, based on his own experience.
 - [14 Tips for Hiring the Perfect CTO](http://mashable.com/2011/05/07/cto-startup-hiring/#oe6OXUtiLqqd) : **Blog post** : Scott Gerber the founder of Sizzle It!, asked a group of successful young entrepreneurs what fledging tech startups should be looking for in a CTO hire to ensure founders get the right person for the job.
 - [Hiring the Right CTO: 5 Best Practices to Keep in Mind](https://www.inc.com/young-entrepreneur-council/what-to-remember-when-hiring-the-right-cto-for-your-startup.html) : **Blog post** : Nav Athwal, founder and CEO of RealtyShares, writes about what should be taken into consideration when selecting a CTO to build a successful startup.
